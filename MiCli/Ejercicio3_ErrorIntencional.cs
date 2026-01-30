@@ -1,11 +1,14 @@
 using System;
 
-public class Ejercicio3_ErrorIntencional
+namespace MiCli
 {
-    public static void Ejecutar()
-    {
-        const int numero = 10;
-        numero = 20; // ❌ Esto da error
-    }
-}
-
+    public class Ejercicio3_ErrorIntencional
+        {
+                public static void Ejecutar()
+                        {
+                                    const int numero = 10;
+                                                // numero = 20; // error intencional comentado
+                                                        }
+                                                            }
+                                                            }
+                                                            

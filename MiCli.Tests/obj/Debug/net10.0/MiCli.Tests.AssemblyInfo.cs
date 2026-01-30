@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiCli.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7d9829469a40ea090f3d090804ddcf86978c86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f930ca72ec3b0abe095215e32e68b17002416d72")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiCli.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiCli.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,13 +1,16 @@
 using System;
 
-public class Ejercicio2_Sumadora
+namespace MiCli
 {
-    public static void Ejecutar()
+    public class Ejercicio2_Sumadora
     {
-        int a = 5;
-        int b = 3;
-        int suma = a + b;
+        public static void Ejecutar()
+        {
+            int a = 5;
+            int b = 3;
+            int suma = a + b;
 
-        Console.WriteLine("La suma es: " + suma);
+            Console.WriteLine("La suma es: " + suma);
+        }
     }
 }

@@ -34,3 +34,10 @@
 /workspaces/primera-tarea-Anniel-puh/MiCli/obj/Debug/net10.0/MiCli.dll
 /workspaces/primera-tarea-Anniel-puh/MiCli/obj/Debug/net10.0/refint/MiCli.dll
 /workspaces/primera-tarea-Anniel-puh/MiCli/obj/Debug/net10.0/MiCli.pdb
+/workspaces/primera-tarea-Anniel-puh/MiCli/bin/Debug/net10.0/MiCli
+/workspaces/primera-tarea-Anniel-puh/MiCli/bin/Debug/net10.0/MiCli.deps.json
+/workspaces/primera-tarea-Anniel-puh/MiCli/bin/Debug/net10.0/MiCli.runtimeconfig.json
+/workspaces/primera-tarea-Anniel-puh/MiCli/bin/Debug/net10.0/MiCli.dll
+/workspaces/primera-tarea-Anniel-puh/MiCli/bin/Debug/net10.0/MiCli.pdb
+/workspaces/primera-tarea-Anniel-puh/MiCli/obj/Debug/net10.0/MiCli.genruntimeconfig.cache
+/workspaces/primera-tarea-Anniel-puh/MiCli/obj/Debug/net10.0/ref/MiCli.dll

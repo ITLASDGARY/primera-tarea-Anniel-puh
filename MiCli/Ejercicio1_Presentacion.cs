@@ -1,11 +1,15 @@
 using System;
 
-public class Ejercicio1_Presentacion
+namespace MiCli
 {
-    public static void Ejecutar()
-    {
-        Console.WriteLine("Anniel Rivera");
-        Console.WriteLine("Ingeniería en Sistemas");
-        Console.WriteLine("Ver Novelas");
-    }
-}
+    public class Ejercicio1_Presentacion
+        {
+                public static void Ejecutar()
+                        {
+                                    Console.WriteLine("Anniel Rivera Linares");
+                                                Console.WriteLine("Ingenieria en Software");
+                                                            Console.WriteLine("Dibujar");
+                                                                    }
+                                                                        }
+                                                                        }
+                                                                        
